@@ -30,4 +30,4 @@ If you'd like to contribute to this project, please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [https://github.com/Muhammad-Uzair99/FreeCodeCampPracticeCourses/blob/main/LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Muhammad-Uzair99/FreeCodeCampPracticeCourses/blob/main/LICENSE) file for details.
